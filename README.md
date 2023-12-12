@@ -32,4 +32,4 @@ To use PhotoGallery Plus, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PhotoGallery-Plus.git
+   git clone https://github.com/DeltaDraconis/projektxpp.git
