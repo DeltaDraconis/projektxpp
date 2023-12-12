@@ -1,2 +1,2 @@
 # projektxpp
-Projekt bezsensownej aplikacji desktopowej na zajęcia xpp
+Projekt bez sensownej aplikacji desktopowej na zajęcia xpp
